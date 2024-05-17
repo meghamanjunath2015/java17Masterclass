@@ -1,3 +1,5 @@
+package challenges;
+
 public class opChallenge {
     public static void main(String[] args) {
         double a = 20.00d;
