@@ -1,11 +1,7 @@
 package challenges;
 
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-
-public class compareDecimalNumbers {
-    protected static final Logger logger = LogManager.getLogger();
+public class CompareDecimalNumbers extends BaseClass {
     public static boolean areEqualByThreeDecimalPlaces(double d1, double d2){
 
         long number1 = (int) (d1*1000);
