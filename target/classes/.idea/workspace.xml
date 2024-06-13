@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9d58e48-6daf-4377-8bfb-0ab9c87fc3e5" name="Changes" comment="add more programs">
+      <change afterPath="$PROJECT_DIR$/target/classes/challenges/ConvertToCentimeters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/challenges/MinutesToYearsDaysCal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/challenges/TimeConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/junit4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/CompareDecimalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/CompareDecimalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/ConvertToCentimeters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/ConvertToCentimeters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/EqualSumChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/EqualSumChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/MinutesToYearsDaysCal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/MinutesToYearsDaysCal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/TimeConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/TimeConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/java17Masterclass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/junit4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/challenges/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/challenges/BaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/challenges/EqualSumChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/challenges/EqualSumChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/src.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;meghamanjunath2015&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/meghamanjunath2015/java17Masterclass.git&quot;,
+    &quot;accountId&quot;: &quot;e29962d4-0229-4881-853e-87c5fcc89379&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2esvSGHvPBuSyMSdFG6h3xCW28D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.CompareDecimalNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertDuration.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertToCentimeters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EqualSumChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinutesToYearsDaysCal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OpChallenge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpeedConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TimeConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.compareDecimalNumbers (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.compareDecimalNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.helloword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.opChallenge.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/meghamanjunath/Documents/java17Masterclass&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.build.tools.auto.reload&quot;: &quot;ALL&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ConvertToCentimeters">
+    <configuration name="CompareDecimalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.CompareDecimalNumbers" />
+      <module name="java17Masterclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertToCentimeters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.ConvertToCentimeters" />
+      <module name="java17Masterclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinutesToYearsDaysCal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.MinutesToYearsDaysCal" />
+      <module name="java17Masterclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.OpChallenge" />
+      <module name="java17Masterclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.TimeConverter" />
+      <module name="java17Masterclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConvertToCentimeters" />
+        <item itemvalue="Application.MinutesToYearsDaysCal" />
+        <item itemvalue="Application.TimeConverter" />
+        <item itemvalue="Application.CompareDecimalNumbers" />
+        <item itemvalue="Application.OpChallenge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9d58e48-6daf-4377-8bfb-0ab9c87fc3e5" name="Changes" comment="" />
+      <created>1712706097850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712706097850</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First challenge add">
+      <option name="closed" value="true" />
+      <created>1714168639878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714168639878</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First challenge add">
+      <option name="closed" value="true" />
+      <created>1714168654138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714168654138</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add LeapYear, SpeedConverter">
+      <option name="closed" value="true" />
+      <created>1715987828883</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715987828883</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add LeapYear, SpeedConverter">
+      <option name="closed" value="true" />
+      <created>1715987833695</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715987833695</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add log4j + comparing Decimal numbers">
+      <option name="closed" value="true" />
+      <created>1717540456311</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717540456311</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add log4j + comparing Decimal numbers">
+      <option name="closed" value="true" />
+      <created>1717540477763</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717540477764</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add log4j + comparing Decimal numbers">
+      <option name="closed" value="true" />
+      <created>1717540494416</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717540494416</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add baseclass">
+      <option name="closed" value="true" />
+      <created>1717542304903</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717542304903</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add baseclass">
+      <option name="closed" value="true" />
+      <created>1717542328162</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717542328162</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add baseclass">
+      <option name="closed" value="true" />
+      <created>1717542340268</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717542340268</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First challenge add" />
+    <MESSAGE value="add LeapYear, SpeedConverter" />
+    <MESSAGE value="add log4j + comparing Decimal numbers" />
+    <MESSAGE value="add baseclass" />
+    <MESSAGE value="add more programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="add more programs" />
+  </component>
+</project>
