@@ -1,8 +1,6 @@
 package challenges;
 
-import static challenges.BaseClass.logger;
-
-public class EqualSumChecker {
+public class EqualSumChecker extends BaseClass{
 
     public  static boolean equalSumChecker(int a, int b, int c){
         if (a + b == c) {
