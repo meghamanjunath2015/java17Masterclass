@@ -1,5 +1,7 @@
-package challenges;
+package challenges.ControlFlow;
 
+
+import challenges.BaseClass;
 
 public class CompareDecimalNumbers extends BaseClass {
     public static boolean areEqualByThreeDecimalPlaces(double d1, double d2){

@@ -1,4 +1,7 @@
-package challenges;
+package challenges.ControlFlow;
+
+import challenges.BaseClass;
+
 /*
 1 min = 60 sec
 1 hour = 60 min

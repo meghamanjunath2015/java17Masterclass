@@ -1,4 +1,4 @@
-package challenges;
+package challenges.ControlFlow;
 
 public class SpeedConverter {
     public static long toMilesPerHour(double kilometersPerHour){

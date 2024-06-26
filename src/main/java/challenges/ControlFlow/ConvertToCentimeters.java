@@ -1,4 +1,6 @@
-package challenges;
+package challenges.ControlFlow;
+
+import challenges.BaseClass;
 
 /*
 1 inch - 2.54cm

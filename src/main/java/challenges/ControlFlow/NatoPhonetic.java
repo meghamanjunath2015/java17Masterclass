@@ -1,6 +1,8 @@
-package challenges;
+package challenges.ControlFlow;
 
-public class NatoPhonetic extends  BaseClass{
+import challenges.BaseClass;
+
+public class NatoPhonetic extends BaseClass {
     public static void main(String[] args) {
         System.out.println(natoLettersAtoE('A'));
         System.out.println(natoLettersAtoE('B'));

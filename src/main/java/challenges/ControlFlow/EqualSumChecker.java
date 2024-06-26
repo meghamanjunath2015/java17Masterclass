@@ -1,6 +1,8 @@
-package challenges;
+package challenges.ControlFlow;
 
-public class EqualSumChecker extends BaseClass{
+import challenges.BaseClass;
+
+public class EqualSumChecker extends BaseClass {
 
     public  static boolean equalSumChecker(int a, int b, int c){
         if (a + b == c) {

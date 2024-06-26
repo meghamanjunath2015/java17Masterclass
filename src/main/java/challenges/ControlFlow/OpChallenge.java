@@ -1,4 +1,4 @@
-package challenges;
+package challenges.ControlFlow;
 
 public class OpChallenge {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package challenges;
+package challenges.ControlFlow;
 
 public class PrintEquality {
 

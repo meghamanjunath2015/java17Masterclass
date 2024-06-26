@@ -1,10 +1,12 @@
-package challenges;
+package challenges.ControlFlow;
 
 /*
 minutesInYear = 60 * 24 * 365 = 525600 minutes.
  */
 
-public class MinutesToYearsDaysCal extends  BaseClass{
+import challenges.BaseClass;
+
+public class MinutesToYearsDaysCal extends BaseClass {
     public static void printYearsAndDays(long minutes){
         if(minutes <0){
             System.out.println("Invalid Value");
