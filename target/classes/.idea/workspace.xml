@@ -4,30 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9d58e48-6daf-4377-8bfb-0ab9c87fc3e5" name="Changes" comment="add more programs">
-      <change afterPath="$PROJECT_DIR$/target/classes/challenges/ConvertToCentimeters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/challenges/MinutesToYearsDaysCal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/challenges/TimeConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/junit4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/CompareDecimalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/CompareDecimalNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/ConvertToCentimeters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/ConvertToCentimeters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/EqualSumChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/EqualSumChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/MinutesToYearsDaysCal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/MinutesToYearsDaysCal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/TimeConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/TimeConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/java17Masterclass.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/junit4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/challenges/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/challenges/BaseClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/challenges/EqualSumChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/challenges/EqualSumChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/src.iml" beforeDir="false" />
+    <list default="true" id="c9d58e48-6daf-4377-8bfb-0ab9c87fc3e5" name="Changes" comment="add more control flow challenges">
+      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/ControlFlow/Pattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,43 +48,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.CompareDecimalNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertDuration.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertToCentimeters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EqualSumChecker.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinutesToYearsDaysCal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OpChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpeedConverter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TimeConverter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.compareDecimalNumbers (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.compareDecimalNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.helloword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.opChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/meghamanjunath/Documents/java17Masterclass&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.build.tools.auto.reload&quot;: &quot;ALL&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.CompareDecimalNumbers.executor": "Run",
+    "Application.ConvertDuration.executor": "Run",
+    "Application.ConvertToCentimeters.executor": "Run",
+    "Application.EqualSumChecker.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MinutesToYearsDaysCal.executor": "Run",
+    "Application.NatoPhonetic.executor": "Run",
+    "Application.OpChallenge.executor": "Run",
+    "Application.PrintEquality.executor": "Run",
+    "Application.SpeedConverter.executor": "Run",
+    "Application.TimeConverter.executor": "Run",
+    "Application.compareDecimalNumbers (1).executor": "Run",
+    "Application.compareDecimalNumbers.executor": "Run",
+    "Application.helloword.executor": "Run",
+    "Application.isPrimeNumber.executor": "Run",
+    "Application.opChallenge.executor": "Run",
+    "Application.sum3And5.executor": "Run",
+    "Application.trial.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/meghamanjunath/Documents/java17Masterclass",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
-}</component>
-  <component name="RunManager" selected="Application.ConvertToCentimeters">
-    <configuration name="CompareDecimalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.CompareDecimalNumbers" />
+}]]></component>
+  <component name="RunManager" selected="Application.Pattern">
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.ControlFlow.LeapYear" />
       <module name="java17Masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.*" />
+          <option name="PATTERN" value="challenges.ControlFlow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertToCentimeters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.ConvertToCentimeters" />
+    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.ControlFlow.Pattern" />
       <module name="java17Masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.*" />
+          <option name="PATTERN" value="challenges.ControlFlow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinutesToYearsDaysCal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.MinutesToYearsDaysCal" />
+    <configuration name="isPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.ControlFlow.isPrimeNumber" />
       <module name="java17Masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.*" />
+          <option name="PATTERN" value="challenges.ControlFlow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.OpChallenge" />
+    <configuration name="sum3And5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.ControlFlow.sum3And5" />
       <module name="java17Masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.*" />
+          <option name="PATTERN" value="challenges.ControlFlow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.TimeConverter" />
+    <configuration name="trial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.ControlFlow.trial" />
       <module name="java17Masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.*" />
+          <option name="PATTERN" value="challenges.ControlFlow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConvertToCentimeters" />
-        <item itemvalue="Application.MinutesToYearsDaysCal" />
-        <item itemvalue="Application.TimeConverter" />
-        <item itemvalue="Application.CompareDecimalNumbers" />
-        <item itemvalue="Application.OpChallenge" />
+        <item itemvalue="Application.Pattern" />
+        <item itemvalue="Application.trial" />
+        <item itemvalue="Application.sum3And5" />
+        <item itemvalue="Application.isPrimeNumber" />
+        <item itemvalue="Application.LeapYear" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +248,39 @@
       <option name="project" value="LOCAL" />
       <updated>1717542340268</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add more programs">
+      <option name="closed" value="true" />
+      <created>1718321158972</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718321158972</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add log4js file">
+      <option name="closed" value="true" />
+      <created>1718321215990</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718321215990</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add more challenges">
+      <option name="closed" value="true" />
+      <created>1718325547852</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718325547852</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add more control flow challenges">
+      <option name="closed" value="true" />
+      <created>1719445343682</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719445343682</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -275,6 +290,9 @@
     <MESSAGE value="add log4j + comparing Decimal numbers" />
     <MESSAGE value="add baseclass" />
     <MESSAGE value="add more programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="add more programs" />
+    <MESSAGE value="add log4js file" />
+    <MESSAGE value="add more challenges" />
+    <MESSAGE value="add more control flow challenges" />
+    <option name="LAST_COMMIT_MESSAGE" value="add more control flow challenges" />
   </component>
 </project>
